@@ -33,8 +33,8 @@ The **College Counselling Management System** is a web-based platform designed t
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/akashadak300/CCMS-F.git
-   cd college-counselling-management-system
+   git clone https://github.com/deepanshichoudhary11/CCMS-F.git
+   cd academic guidence hub
    ```
 
 2. **Install dependencies**
